@@ -12,7 +12,7 @@ have grown over the years, published live so I can share it.
 - [x] Fetch my papers from OpenAlex, save as reusable script + `papers.json`
 - [x] Check the fetched list is really mine
 - [x] Design the page (interview, answers below)
-- [ ] Build `index.html`
+- [x] Build `index.html`
 - [ ] Publish live with GitHub Pages
 - [ ] Stretch: package as a `/publications-page` skill
 
