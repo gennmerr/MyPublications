@@ -3,7 +3,7 @@
 **Goal:** a web page of my published papers, with charts of how my citations
 have grown over the years, published live so I can share it.
 
-## Status: in progress
+## Status: done — live at https://gennmerr.github.io/MyPublications/
 
 ## Steps
 
