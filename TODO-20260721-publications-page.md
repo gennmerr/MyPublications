@@ -13,7 +13,7 @@ have grown over the years, published live so I can share it.
 - [x] Check the fetched list is really mine
 - [x] Design the page (interview, answers below)
 - [x] Build `index.html`
-- [ ] Publish live with GitHub Pages
+- [x] Publish live with GitHub Pages
 - [ ] Stretch: package as a `/publications-page` skill
 
 ## Design decisions
