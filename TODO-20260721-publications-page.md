@@ -14,7 +14,7 @@ have grown over the years, published live so I can share it.
 - [x] Design the page (interview, answers below)
 - [x] Build `index.html`
 - [x] Publish live with GitHub Pages
-- [ ] Stretch: package as a `/publications-page` skill
+- [x] Stretch: package as a `/publications-page` skill
 
 ## Design decisions
 
@@ -38,5 +38,8 @@ have grown over the years, published live so I can share it.
   Gennifer reviewed the spreadsheet herself and approved the list.
 - Preprint-merge and duplicate-dataset rules are baked into `fetch_papers.py`,
   so re-running it reproduces the same cleaned list.
+- Packaged as `ws/.claude/skills/publications-page/` (SKILL.md,
+  fetch_papers.py, template.html) — run `/publications-page` for anyone
+  else's name/ORCID + organization.
 
 (kept up to date as the work progresses, so it can be re-run later)
